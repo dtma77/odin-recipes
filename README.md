@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project to build a basic recipe website. The goal is to practice basic HTML skills, such as creating the HTML boilerplate, creating links and images in the body, and enhancing them. I will also document my change history with commit messages. I will use git add + git commit cycles many times to make several iterations of saves. When it is finally ready, I will push it up to GitHub with git push origin main.
