@@ -1,0 +1,26 @@
+/* styles.css for odin-recipes page */
+
+h1{
+    font-size: 48px;
+    color: rgb(109, 11, 11);
+    text-align: center;
+}
+
+.recipelist{
+    font-weight: bold;
+}
+
+.foodpics{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.click{
+    color:white;
+    background-color: red;
+    font-weight: bold;
+}
+
